@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://JohnBurdem.github.io/sitemap.xml
+Sitemap: https://JohnBurden.github.io/sitemap.xml
