@@ -9,7 +9,6 @@ profile:
   image: me.jpg
   image_circular: false # crops the image to make it circular
  
-
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
@@ -23,7 +22,6 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-
 
 I am a Senior Research Associate at the [Leverhulme Centre for the Future of Intelligence](https://www.lcfi.ac.uk/) where I also co-direct the [Kinds of Intelligence programme](https://www.lcfi.ac.uk/research/programme/kinds-of-intelligence).
 Here, my work focuses on AI Evaluation. 
