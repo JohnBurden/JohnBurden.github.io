@@ -2,7 +2,9 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: >-
+  Senior Research Associate, <a href="https://www.lcfi.ac.uk/">Leverhulme Centre for the
+  Future of Intelligence</a>, University of Cambridge
 
 profile:
   align: right
