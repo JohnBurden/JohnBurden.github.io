@@ -171,7 +171,7 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ["_pages", "_scripts"]
+include: ["_pages", "_scripts", "_bibliography"]
 exclude:
   - _pages/cv.md
   - _pages/blog.md
@@ -273,8 +273,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Burden]
+  first_name: [John]
 
   style: apa
   locale: en
