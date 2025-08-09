@@ -373,15 +373,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-our-survey-on-ai-evaluation-was-accepted-as-ijcai-survey-track-paper",
+            },},{id: "news-our-survey-on-ai-evaluation-was-accepted-as-ijcai-survey-track-paper",
           title: 'Our  survey on AI evaluation  was accepted as IJCAI survey track paper!',
           description: "",
           section: "News",},{id: "projects-project-1",
