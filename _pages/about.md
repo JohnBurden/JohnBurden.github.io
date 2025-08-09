@@ -2,9 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: >-
-  Senior Research Associate, <a href="https://www.lcfi.ac.uk/">Leverhulme Centre for the
-  Future of Intelligence</a>, University of Cambridge
+subtitle: 
 
 profile:
   align: right
@@ -15,7 +13,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: False # includes a list of news items
+  enabled: True # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
