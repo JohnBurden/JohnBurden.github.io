@@ -23,6 +23,5 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Senior Research Associate at the [Leverhulme Centre for the Future of Intelligence](https://www.lcfi.ac.uk/) where I also co-direct the [Kinds of Intelligence programme](https://www.lcfi.ac.uk/research/programme/kinds-of-intelligence).
-Here, my work focuses on AI Evaluation. 
+I am an AI Research Engineer at [Prolific](https://www.prolific.com/). My work focuses on AI Evaluation.
 
